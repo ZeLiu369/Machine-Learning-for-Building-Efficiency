@@ -1,3 +1,6 @@
+paper link: https://drive.google.com/file/d/1OX8yinRKUBdhRsNC0G2p7LVoVLxHVnku/view
+
+
 # Introduction
 This repository contains the code and dataset used in our research to enhance the predictive accuracy of the Energy Star Score of buildings using advanced machine learning techniques. By focusing on the expansive NYC benchmarking dataset, our study leverages the Random Forest algorithm to outperform traditional methods like Gradient Boosting, addressing both the robustness against overfitting and the interpretability of the model.
 
